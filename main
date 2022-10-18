@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <title>lex2m</title>
+   </head>
+<body bgcolor="#fadadd">
+    <br><br><br><br><br>
+    <center>
+        <!--lex2m--> <!--lex2m--> <!--lex2m--> <!--lex2m--> <!--lex2m--> <!--lex2m--> <!--lex2m--> <!--lex2m-->
+        <div style="background-color: #ff69b4; height: 200px; border-radius:20px; " align="center">
+        <form>
+            <fieldset style="border-radius: 20px; height: 180px; ">
+           
+             <label>Ad Soyad : </label>
+             <input type="text" name="adsoyad" required="required"> <br/><br/>
+             <label>Şifre : </label>
+             <input type="password"/><br><br>
+             <label>E-Mail : </label>
+             <input type="email" name="eposta" required="required"> <br/><br/>
+             <label>Doğum Tarihi : </label>
+             <input type="date" name="dtarihi" required="required"> <br/><br/>
+             <input type="submit" value="Gönder"/>
+             <input type="reset" value="Temizle"/>
+             
+            
+            </fieldset>
+            </form>
+            
+
+
+      </div>
+      <footer> </footer>
+    </center>
+</body>
+</html>
